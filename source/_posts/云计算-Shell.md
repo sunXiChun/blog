@@ -1,5 +1,5 @@
 ---
-title: "[云计算]Shell脚本"
+title: "云计算-Shell脚本"
 catalog: true
 toc_nav_num: true
 date: 2023-07-18 23:52:45
