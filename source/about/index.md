@@ -20,6 +20,7 @@ fixed: false
 > Python
 > Go
 > 摄影
+> 云计算
 
 ### 参与社区
 
