@@ -77,7 +77,7 @@ theme: huweihuang
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/sunXiChun/sunXiChun.github.io.git
+  repository: git@github.com:sunXiChun/sunXiChun.github.io.git
   branch: master
 
 
